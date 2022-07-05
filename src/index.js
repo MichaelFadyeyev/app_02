@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App info="THIS IS INFO"/>
+    <App info="THIS IS INFO. AND GIT"/>
   </React.StrictMode>
 );
 
