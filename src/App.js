@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>without props</div>
       </header>
     </div>
   );
